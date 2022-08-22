@@ -1,0 +1,156 @@
+---
+title: "Emma Skarstein's resume"
+author: Emma Skarstein
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: 
+      - resume.css
+      - my_style.css
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> emma@skarstein.no
+- <i class="fa fa-home"></i> [emmaskarstein.github.io](https://emmaskarstein.github.io/)
+- <i class="fa fa-github"></i> [github.com/emmaskarstein](https://github.com/emmaskarstein)
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in statistical analysis, data science, and data visualization.
+
+- R, Rmarkdown, LaTex, GitHub, Python
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made in R with the package [pagedown](https://github.com/rstudio/pagedown).
+
+The source code is available at github.com.
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Emma Skarstein {#title}
+--------------------------------------------------------------------------------
+
+Passionate about science communication, data visualization and transparent research. Solid background in mathematics and statistical research.
+
+
+Education {data-icon=graduation-cap}
+--------------------------------------------------------------------------------
+
+### M.S. in Mathematical Sciences
+
+Norwegian University of Science and Technology
+
+Trondheim, Norway
+
+2020 - 2018
+
+Thesis: Accounting for spatial bias in citizen science observations of Norwegian freshwater fish by using an effort spatial field
+
+
+### B.S. in Mathematical Sciences
+
+Norwegian University of Science and Technology
+
+Trondheim, Norway
+
+2018 - 2015
+
+Thesis: The EM algorithm and some applications in population genetics
+
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### PhD candidate
+
+Norwegian University of Science and Technology
+
+Trondheim, Norway
+
+current - 2020
+
+Measurement error and missing data in explanatory variables. Bayesian modelling using integrated nested Laplace approximation (INLA).
+
+### Research assistant
+
+Aalto University
+
+Helsinki, Finland
+
+2018
+
+Helped develop an algorithm for automated brain stimulation. Acknowledged in [Tervo et al. (2020)](https://www.sciencedirect.com/science/article/pii/S1053811920305681).
+
+  
+
+Selected Publications and Posters {data-icon=file}
+--------------------------------------------------------------------------------
+
+### [How is model-related uncertainty quantified and reported in different disciplines?](https://arxiv.org/abs/2206.12179)
+
+Review pending.
+
+N/A
+
+2022
+
+Simmonds, E.G. et al.
+
+
+
+### [We show how to handle missing data in INLA by generalizing existing measurement error models.](https://github.com/emmaSkarstein/ISBA2022-Poster)
+
+Award winning poster for 2022 International Society for Bayesian Analysis (ISBA) World Meeting
+
+Montreal, Canada
+
+2022
+
+**Skarstein, E.,**, Martino, S., Muff, S.
+
+
+Other selected work {data-icon=chart-line}
+--------------------------------------------------------------------------------
+
+### [TidyTuesday Project Data Visualizations](https://github.com/emmaSkarstein/tidytuesday)
+
+10+ visualizations of data from the TidyTuesday project
+
+N/A
+
+2021 - 2022
+
+
+### [power.usage.analysis](https://github.com/emmaSkarstein/power.usage.analysis)
+
+R-package for exploring and analyzing power consumption data from Elhub.no. 
+
+N/A
+
+2020
+
+
+
+
