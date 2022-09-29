@@ -7,6 +7,7 @@ output:
     css: 
       - resume.css
       - my_style.css
+      - https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: true
 # uncomment this line to produce HTML and PDF in RStudio:
@@ -16,24 +17,27 @@ output:
 Aside
 ================================================================================
 
-
-
+<center>
+![Emma Skarstein](https://avatars.githubusercontent.com/emmaSkarstein){width=80% style='border-radius: 50%;'}
+</center>
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> emma@skarstein.no
-- <i class="fa fa-home"></i> [emmaskarstein.github.io](https://emmaskarstein.github.io/)
-- <i class="fa fa-github"></i> [github.com/emmaskarstein](https://github.com/emmaskarstein)
+- <i class="fa fa-mobile"></i> 47641800
 
-
-Skills {#skills}
+See my work {#skills}
 --------------------------------------------------------------------------------
 
-- Experienced in statistical analysis, data science, and data visualization.
+<i class="fa fa-home"></i> [**emmaskarstein.github.io**](https://emmaskarstein.github.io/) 
+<br> Homepage and blog, with a selection of work and posts.
 
-- R, Rmarkdown, LaTex, GitHub, Python
+<i class="fa fa-github"></i> [**github/emmaSkarstein**](https://github.com/emmaskarstein) 
+<br> Code and projects, for example [my TidyTuesday contributions](https://github.com/emmaSkarstein/tidytuesday) and [various visualization projects](https://github.com/emmaSkarstein/visualization_projects).
 
+<i class="ai ai-orcid"></i> [**0000-0002-6347-855X**](https://orcid.org/0000-0002-6347-855X) 
+<br> Published academic articles
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
@@ -57,10 +61,19 @@ Passionate about science communication, data visualization and transparent resea
 
 Education {data-icon=graduation-cap}
 --------------------------------------------------------------------------------
+### PhD candidate
+
+<font size="1"> Norwegian University of Science and Technology </font> 
+
+Trondheim, Norway
+
+current - 2020
+
+Measurement error and missing data in explanatory variables. Bayesian modelling using integrated nested Laplace approximation (INLA).
 
 ### M.S. in Mathematical Sciences
 
-Norwegian University of Science and Technology
+<font size="1"> Norwegian University of Science and Technology </font> 
 
 Trondheim, Norway
 
@@ -71,7 +84,7 @@ Thesis: [*Accounting for spatial bias in citizen science observations of Norwegi
 
 ### B.S. in Mathematical Sciences
 
-Norwegian University of Science and Technology
+<font size="1"> Norwegian University of Science and Technology </font> 
 
 Trondheim, Norway
 
@@ -80,18 +93,28 @@ Trondheim, Norway
 Thesis: *The EM algorithm and some applications in population genetics*
 
 
-Research Experience {data-icon=laptop}
+Work Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
+### Teaching assistant
 
-### PhD candidate
-
-Norwegian University of Science and Technology
+<font size="1"> Norwegian University of Science and Technology </font> 
 
 Trondheim, Norway
 
-current - 2020
+2019 fall
 
-Measurement error and missing data in explanatory variables. Bayesian modelling using integrated nested Laplace approximation (INLA).
+Teaching assistant in the course ST1201 Statistical Methods. Full responsibility for exercise sessions and grading of mandatory exercises for 40 students.
+
+### Accountant
+
+Effektiv Altruisme Norge
+
+Oslo, Norway (remote)
+
+2019 - 2018
+
+Responsible for payroll of up to 7 employees, as well as all regular routines related to finance and accounting in a charitable organization.
+
 
 ### Research assistant
 
@@ -99,11 +122,20 @@ Aalto University
 
 Helsinki, Finland
 
-2018
+2018 summer
 
 Helped develop an algorithm for automated brain stimulation. Acknowledged in [Tervo et al. (2020)](https://www.sciencedirect.com/science/article/pii/S1053811920305681).
 
-  
+### Teaching assistant
+
+<font size="1"> Norwegian University of Science and Technology </font> 
+
+Trondheim, Norway
+
+2018 fall
+
+Teaching assistant in the course ST1201 Statistical Methods. Responsible for weekly exercise session.
+
 
 Selected Publications and Posters {data-icon=file}
 --------------------------------------------------------------------------------
@@ -118,7 +150,23 @@ N/A
 
 Simmonds, E.G. et al.
 
+::: aside
 
+ <font size="4"> SKILLS </font> 
+
+<i class="fa fa-code"></i> **PROGRAMMING** | R, Python, Matlab, C++, CSS (basic)
+
+<i class="fa fa-box-open"></i> **R-PACKAGES** | rmarkdown, ggplot2, tidyverse
+
+<i class="fa fa-desktop"></i> **RELATED SOFTWARE** | Rstudio, GitHub, LaTeX
+
+<i class="fa fa-briefcase"></i> **MICROSOFT OFFICE** | Word, PowerPoint, Excel, Outlook, Teams
+
+<i class="fa fa-window-maximize"></i> **GOOGLE** | Drive, Docs, Sheets, Forms
+
+<i class="fa fa-globe"></i> **LANGUAGES** | English (native), Norwegian (native), French (B1), Chinese (A1), German (A1)
+
+:::
 
 ### [We show how to handle missing data in INLA by generalizing existing measurement error models.](https://github.com/emmaSkarstein/ISBA2022-Poster)
 
@@ -131,12 +179,13 @@ Montreal, Canada
 **Skarstein, E.,** Martino, S., Muff, S.
 
 
+
 Other selected work {data-icon=chart-line}
 --------------------------------------------------------------------------------
 
 ### [TidyTuesday Project Data Visualizations](https://github.com/emmaSkarstein/tidytuesday)
 
-10+ visualizations of data from the TidyTuesday project
+10+ visualizations of data from the TidyTuesday project.
 
 N/A
 
@@ -152,5 +201,60 @@ N/A
 2020
 
 
+Volunteer experience {data-icon=handshake}
+--------------------------------------------------------------------------------
 
+### Representative for temporary employees, statistics group
+
+Department of Mathematical sciences, NTNU
+
+N/A 
+
+current - 2020
+
+Represented temp. employees in administrative and organizational matters, organized social activities in the statistics group.
+
+
+### Treasurer
+
+Trondheim Student Garden
+
+N/A
+
+2019 - 2018
+
+Full responsibility for the finances of the student garden. Initiated a collaboration with Moholt student kindergarten.
+
+
+### Head of board
+
+Effektiv Altruisme NTNU
+
+N/A
+
+2018 - 2017 
+
+Student organization with a goal of streamlining the foreign aid sector and providing new knowledge to students regarding career choices for a better world. 30 active members.
+
+
+Courses {data-icon=clipboard-check}
+--------------------------------------------------------------------------------
+
+### LAOS teaching assistant course, NTNU
+
+N/A
+
+N/A
+
+2018
+
+### NTNU's Research leadership course
+
+N/A
+
+N/A
+
+2022
+
+Held by Lars Christian Lassen, Mobilize Strategy Consulting. 2-day course targeted at PhD-candidates, designed develop an understanding of leadership in a research context.
 
