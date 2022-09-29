@@ -11,21 +11,21 @@ output:
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: true
 # uncomment this line to produce HTML and PDF in RStudio:
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 ---
 
 Aside
 ================================================================================
 
 <center>
-![Emma Skarstein](https://avatars.githubusercontent.com/emmaSkarstein){width=80% style='border-radius: 50%;'}
+![Emma Skarstein](https://raw.githubusercontent.com/emmaSkarstein/emmaSkarstein.github.io/master/images/emma_mattiniemi.jpg){width=80% style='border-radius: 50%;'}
 </center>
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> emma@skarstein.no
-- <i class="fa fa-mobile"></i> 47641800
+- <i class="fa fa-mobile"></i> +47 47641800
 
 See my work {#skills}
 --------------------------------------------------------------------------------
@@ -37,7 +37,7 @@ See my work {#skills}
 <br> Code and projects, for example [my TidyTuesday contributions](https://github.com/emmaSkarstein/tidytuesday) and [various visualization projects](https://github.com/emmaSkarstein/visualization_projects).
 
 <i class="ai ai-orcid"></i> [**0000-0002-6347-855X**](https://orcid.org/0000-0002-6347-855X) 
-<br> Published academic articles
+<br> Published academic articles.
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
@@ -116,16 +116,6 @@ Oslo, Norway (remote)
 Responsible for payroll of up to 7 employees, as well as all regular routines related to finance and accounting in a charitable organization.
 
 
-### Research assistant
-
-Aalto University
-
-Helsinki, Finland
-
-2018 summer
-
-Helped develop an algorithm for automated brain stimulation. Acknowledged in [Tervo et al. (2020)](https://www.sciencedirect.com/science/article/pii/S1053811920305681).
-
 ### Teaching assistant
 
 <font size="1"> Norwegian University of Science and Technology </font> 
@@ -137,7 +127,19 @@ Trondheim, Norway
 Teaching assistant in the course ST1201 Statistical Methods. Responsible for weekly exercise session.
 
 
-Selected Publications and Posters {data-icon=file}
+### Research assistant
+
+Aalto University
+
+Helsinki, Finland
+
+2018 summer
+
+Helped develop an algorithm for automated brain stimulation. Acknowledged in [Tervo et al. (2020)](https://www.sciencedirect.com/science/article/pii/S1053811920305681).
+
+
+
+Selected Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
 ### [How is model-related uncertainty quantified and reported in different disciplines?](https://arxiv.org/abs/2206.12179)
@@ -150,55 +152,43 @@ N/A
 
 Simmonds, E.G. et al.
 
+
+
 ::: aside
 
- <font size="4"> SKILLS </font> 
+<font size="4"> SKILLS </font> 
 
-<i class="fa fa-code"></i> **PROGRAMMING** | R, Python, Matlab, C++, CSS (basic)
+<i class="fa fa-code"></i> **PROGRAMMING** | R, Python, Matlab, C++, CSS (basic), GitHub
 
-<i class="fa fa-box-open"></i> **R-PACKAGES** | rmarkdown, ggplot2, tidyverse
+<i class="fa fa-box-open"></i> **R-PACKAGES** | ggplot2, tidyverse
 
-<i class="fa fa-desktop"></i> **RELATED SOFTWARE** | Rstudio, GitHub, LaTeX
+<i class="fa fa-book-open"></i> **LITERATE CODING** | LaTeX, R markdown, Xaringan slides, Quarto
 
 <i class="fa fa-briefcase"></i> **MICROSOFT OFFICE** | Word, PowerPoint, Excel, Outlook, Teams
 
-<i class="fa fa-window-maximize"></i> **GOOGLE** | Drive, Docs, Sheets, Forms
+<i class="fa fa-laptop"></i> **GOOGLE** | Drive, Docs, Sheets, Forms
 
-<i class="fa fa-globe"></i> **LANGUAGES** | English (native), Norwegian (native), French (B1), Chinese (A1), German (A1)
+<i class="fa fa-globe"></i> **LANGUAGES** | English (native), Norwegian (native), French (B1), Chinese (A1)
+
+<br>
+
+<font size="4"> GRAPHICAL WORK </font> 
+
+<i class="fa fa-chart-bar"></i> [**TidyTuesday Contributions**](https://github.com/emmaSkarstein/tidytuesday) | 10+ visualizations of data from the TidyTuesday project.
+
+<i class="fa fa-crown"></i> [**British Monarchs**](https://github.com/emmaSkarstein/visualization_projects/tree/master/British_monarchs) | The lifespans of the last monarchs of Britain and England.
+
+<i class="fa fa-chalkboard-teacher"></i> [**Missing data in INLA**](https://github.com/emmaSkarstein/ISBA2022-Poster) | Award winning conference poster, based on a poster for the movie Psycho (1960).
+
+<br>
+
+<font size="4"> R PACKAGES </font> 
+
+<i class="fa fa-plug"></i> [**power.usage.analysis**](https://github.com/emmaSkarstein/power.usage.analysis) | Explore and analyze personal power consumption data from Elhub.no. 
 
 :::
 
-### [We show how to handle missing data in INLA by generalizing existing measurement error models.](https://github.com/emmaSkarstein/ISBA2022-Poster)
 
-Award winning poster at 2022 International Society for Bayesian Analysis (ISBA) World Meeting
-
-Montreal, Canada
-
-2022
-
-**Skarstein, E.,** Martino, S., Muff, S.
-
-
-
-Other selected work {data-icon=chart-line}
---------------------------------------------------------------------------------
-
-### [TidyTuesday Project Data Visualizations](https://github.com/emmaSkarstein/tidytuesday)
-
-10+ visualizations of data from the TidyTuesday project.
-
-N/A
-
-2022 - 2021
-
-
-### [power.usage.analysis](https://github.com/emmaSkarstein/power.usage.analysis)
-
-R-package for exploring and analyzing power consumption data from Elhub.no. 
-
-N/A
-
-2020
 
 
 Volunteer experience {data-icon=handshake}
@@ -240,14 +230,6 @@ Student organization with a goal of streamlining the foreign aid sector and prov
 Courses {data-icon=clipboard-check}
 --------------------------------------------------------------------------------
 
-### LAOS teaching assistant course, NTNU
-
-N/A
-
-N/A
-
-2018
-
 ### NTNU's Research leadership course
 
 N/A
@@ -257,4 +239,14 @@ N/A
 2022
 
 Held by Lars Christian Lassen, Mobilize Strategy Consulting. 2-day course targeted at PhD-candidates, designed develop an understanding of leadership in a research context.
+
+
+### LAOS teaching assistant course, NTNU
+
+N/A
+
+N/A
+
+2018
+
 
