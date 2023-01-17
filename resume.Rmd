@@ -42,9 +42,9 @@ See my work {#skills}
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-This resume was made in R with the package [pagedown](https://github.com/rstudio/pagedown). 
+I made this resume in R with the package [pagedown](https://github.com/rstudio/pagedown). 
 
-Source code is available [here](https://github.com/emmaSkarstein/resume_skarstein).
+My source code is available [here](https://github.com/emmaSkarstein/resume_skarstein).
 
 Last updated on `r Sys.Date()`.
 
@@ -142,9 +142,9 @@ Helped develop an algorithm for automated brain stimulation. Acknowledged in [Te
 Selected Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
-### [How is model-related uncertainty quantified and reported in different disciplines?](https://arxiv.org/abs/2206.12179)
+### [Insights into the quantification and reporting of model-related uncertainty across different disciplines](https://www.sciencedirect.com/science/article/pii/S2589004222017849?via%3Dihub)
 
-Review pending.
+iScience
 
 N/A
 
