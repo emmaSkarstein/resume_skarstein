@@ -1,0 +1,260 @@
+---
+title: "Emma Skarsteins CV"
+author: Emma Skarstein
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: 
+      - resume.css
+      - my_style.css
+      - https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+<center>
+![Emma Skarstein](https://raw.githubusercontent.com/emmaSkarstein/emmaSkarstein.github.io/master/images/emma_mattiniemi.jpg){width=80% style='border-radius: 50%;'}
+</center>
+
+Kontaktinfo {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> emma@skarstein.no
+- <i class="fa fa-mobile"></i> +47 47641800
+
+Se arbeidet mitt {#skills}
+--------------------------------------------------------------------------------
+
+<i class="fa fa-home"></i> [**emmaskarstein.github.io**](https://emmaskarstein.github.io/) 
+<br> Hjemmeside og blogg, med et utvalg av arbeid. 
+
+<i class="fa fa-github"></i> [**github/emmaSkarstein**](https://github.com/emmaskarstein) 
+<br> Kode og prosjekter, for eksempel [mine TidyTuesday bidrag](https://github.com/emmaSkarstein/tidytuesday) og [diverse visualiserings-prosjekter](https://github.com/emmaSkarstein/visualization_projects).
+
+<i class="ai ai-google-scholar"></i> [**Google Scholar**](https://scholar.google.com/citations?user=Z80hBKsAAAAJ&hl=no) 
+<br> Oversikt over publiserte akademiske artikler.
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Denne CV'en er laget i R med pakken [pagedown](https://github.com/rstudio/pagedown). 
+
+Kildekoden min er tilgjengelig [her](https://github.com/emmaSkarstein/resume_skarstein).
+
+Sist oppdatert `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Emma Skarstein {#title}
+--------------------------------------------------------------------------------
+
+Lidenskapelig opptatt av vitenskapsformidling, datavisualisering og åpen forskning. Solid bakgrunn i matematikk og statistisk modellering.
+
+
+Utdanning {data-icon=graduation-cap}
+--------------------------------------------------------------------------------
+### Stipendiat
+
+<font size="1"> Norges teknisk-naturvitenskapelige universitet </font> 
+
+Trondheim, Norge
+
+d.d. - 2020
+
+Målefeil og manglende data i forklaringsvariabler. Bayesiansk modellering med integrated nested Laplace approximation (INLA).
+
+### Mastergrad i matematiske fag
+
+<font size="1"> Norges teknisk-naturvitenskapelige universitet </font> 
+
+Trondheim, Norge
+
+2020 - 2018
+
+Avhandling: [*Accounting for spatial bias in citizen science observations of Norwegian freshwater fish by using an effort spatial field*](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2778367)
+
+
+### Bachelorgrad i matematiske fag
+
+<font size="1"> Norges teknisk-naturvitenskapelige universitet </font> 
+
+Trondheim, Norge
+
+2018 - 2015
+
+Avhandling: *The EM algorithm and some applications in population genetics*
+
+
+Arbeidserfaring {data-icon=laptop}
+--------------------------------------------------------------------------------
+### Læringsassistent
+
+<font size="1"> Norges teknisk-naturvitenskapelige universitet </font> 
+
+Trondheim, Norge
+
+2019 høst
+
+Læringsassistent i emnet ST1201 Statistiske metoder. Fullt ansvar for øvingstimer og retting av obligatoriske øvinger for 40 studenter.
+
+### Regnskapsfører
+
+Effektiv Altruisme Norge
+
+Oslo, Norge (fjernarbeid)
+
+2019 - 2018
+
+Andvarlig for lønnskjøring for opptil 7 ansatte, samt alle rutiner knyttet til regnskapsføring for en idéell organisasjon.
+
+
+### Læringsassistent
+
+<font size="1"> Norges teknisk-naturvitenskapelige universitet </font> 
+
+Trondheim, Norge
+
+2018 høst
+
+Læringsassistent i kurset ST1201 Statistiske metoder. Ansvarlig for ukentlige øvingstimer.
+
+
+### Forskningsassistent
+
+Aalto-Universitetet
+
+Helsinki, Finland
+
+2018 sommer
+
+Bidro til å utvikle en algoritme for automatisert hjerne-stimulering. Anerkjent i [Tervo et al. (2020)](https://www.sciencedirect.com/science/article/pii/S1053811920305681).
+
+
+
+Utvalgte publikasjoner {data-icon=file}
+--------------------------------------------------------------------------------
+
+### [A joint Bayesian framework for missing data and measurement error using integrated nested Laplace approximations](https://arxiv.org/abs/2303.15240)
+
+Førtrykk
+
+N/A
+
+2023
+
+Skarstein, E.S; Martino, S; Muff, S
+
+
+
+::: aside
+
+<font size="4"> EVNER </font> 
+
+<i class="fa fa-code"></i> **PROGRAMMERING** | R, Python, Matlab, C++, GitHub
+
+<i class="fa fa-box-open"></i> **R-PAKKER** | ggplot2, tidyverse
+
+<i class="fa fa-book-open"></i> **LITTERAT KODING** | LaTeX, R markdown, Xaringan slides, Quarto
+
+<i class="fa fa-briefcase"></i> **MICROSOFT OFFICE** | Word, PowerPoint, Excel, Outlook, Teams
+
+<i class="fa fa-laptop"></i> **GOOGLE** | Drive, Docs, Sheets, Forms
+
+<i class="fa fa-globe"></i> **SPRÅK** | Engelsk (morsmål), norsk (morsmål), Fransk (B1), Kinesisk (A1)
+
+<br>
+
+<font size="4"> GRAFISK ARBEID </font> 
+
+<i class="fa fa-chart-bar"></i> [**TidyTuesday Contributions**](https://github.com/emmaSkarstein/tidytuesday) | 10+ visualiseringer av data fra TidyTuesday-prosjektet.
+
+<i class="fa fa-crown"></i> [**Britiske monarker**](https://github.com/emmaSkarstein/visualization_projects/tree/master/British_monarchs) | Levetidene til de siste monarkene i Storbrittania og England.
+
+<i class="fa fa-chalkboard-teacher"></i> [**Missing data in INLA**](https://github.com/emmaSkarstein/ISBA2022-Poster) | Prisvinnende konferanse-plakat, basert på en filmplakat til filmen Psycho (1960). 
+
+<br>
+
+<font size="4"> R PAKKER </font> 
+
+<i class="fa fa-plug"></i> [**power.usage.analysis**](https://github.com/emmaSkarstein/power.usage.analysis) | Utforsk og analyser personlig strømforbruks-data fra Elhub.no.
+
+:::
+
+### [Insights into the quantification and reporting of model-related uncertainty across different disciplines](https://www.sciencedirect.com/science/article/pii/S2589004222017849?via%3Dihub)
+
+iScience
+
+N/A
+
+2022
+
+Simmonds, E.G. et al.
+
+
+Verv {data-icon=handshake}
+--------------------------------------------------------------------------------
+
+### Representant for midlertidig ansatte, statistikkgruppen
+
+Institutt for matematiske fag, NTNU
+
+N/A 
+
+2023 - 2020
+
+Representerte midlertidig ansatte (PhD og post. doc) i administrative og organisatoriske saker, arrangerte sosiale aktiviteter i statistikkgruppa.
+
+
+### Økonomiansvarlig
+
+Trondheim studenthage
+
+N/A
+
+2019 - 2018
+
+Fullt ansvar for økonomien til studenthagen. Tok initiativ til hage-samarbeid med Moholt studentbarnehage. 
+
+
+### Styreleder
+
+Effektiv Altruisme NTNU
+
+N/A
+
+2018 - 2017 
+
+Studentorganisasjon med mål om å effektivisere bistandssektoren og gi ny kunnskap til studenter. 30 aktive medlemmer og foredrag med opptil 230 personer, deriblant med Kronprinsesse Mette Marit og daværende utenriksminister Børge Brende.
+
+
+Kurs {data-icon=clipboard-check}
+--------------------------------------------------------------------------------
+
+### Kurs i forskningslederskap
+
+NTNU
+
+N/A
+
+2022
+
+Holdt av Lars Christian Lassen, Mobilize Strategy Consulting. 2-dagers kurs rettet mot stipendiater, med mål om å utvikle forståelse for lederskap i en forskningskontekst.
+
+
+### LAOS læringsassistent-kurs
+
+NTNU
+
+N/A
+
+2018
+
+
