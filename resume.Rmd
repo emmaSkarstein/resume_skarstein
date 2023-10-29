@@ -142,15 +142,15 @@ Helped develop an algorithm for automated brain stimulation. Acknowledged in [Te
 Selected Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
-### [Insights into the quantification and reporting of model-related uncertainty across different disciplines](https://www.sciencedirect.com/science/article/pii/S2589004222017849?via%3Dihub)
+### [A joint Bayesian framework for missing data and measurement error using integrated nested Laplace approximations](https://onlinelibrary.wiley.com/doi/full/10.1002/bimj.202300078)
 
-iScience
+Biometrical Journal
 
 N/A
 
-2022
+2023
 
-Simmonds, E.G. et al.
+Skarstein, E.S; Martino, S; Muff, S
 
 
 
@@ -184,11 +184,28 @@ Simmonds, E.G. et al.
 
 <font size="4"> R PACKAGES </font> 
 
+<i class="fa fa-ruler"></i>
+[**inlami**](https://emmaskarstein.github.io/inlami/index.html) | Bayesianske modeller for målefeil og manglende data i INLA (integrated nested Laplace approximations).
+
+<i class="fa fa-bullhorn"></i>
+[**valgdata**](https://github.com/emmaSkarstein/valgdata) | Enkle funksjoner for å visualisere valgdata fra stortingsvalg.
+
 <i class="fa fa-plug"></i> [**power.usage.analysis**](https://github.com/emmaSkarstein/power.usage.analysis) | Explore and analyze personal power consumption data from Elhub.no. 
 
 :::
 
 
+
+
+### [Insights into the quantification and reporting of model-related uncertainty across different disciplines](https://www.sciencedirect.com/science/article/pii/S2589004222017849?via%3Dihub)
+
+iScience
+
+N/A
+
+2022
+
+Simmonds, E.G. et al.
 
 
 Volunteer experience {data-icon=handshake}

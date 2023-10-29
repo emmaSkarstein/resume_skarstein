@@ -142,9 +142,9 @@ Bidro til å utvikle en algoritme for automatisert hjerne-stimulering. Anerkjent
 Utvalgte publikasjoner {data-icon=file}
 --------------------------------------------------------------------------------
 
-### [A joint Bayesian framework for missing data and measurement error using integrated nested Laplace approximations](https://arxiv.org/abs/2303.15240)
+### [A joint Bayesian framework for missing data and measurement error using integrated nested Laplace approximations](https://onlinelibrary.wiley.com/doi/full/10.1002/bimj.202300078)
 
-Førtrykk
+Biometrical Journal
 
 N/A
 
@@ -183,6 +183,12 @@ Skarstein, E.S; Martino, S; Muff, S
 <br>
 
 <font size="4"> R PAKKER </font> 
+
+<i class="fa fa-ruler"></i>
+[**inlami**](https://emmaskarstein.github.io/inlami/index.html) | Bayesianske modeller for målefeil og manglende data i INLA (integrated nested Laplace approximations).
+
+<i class="fa fa-bullhorn"></i>
+[**valgdata**](https://github.com/emmaSkarstein/valgdata) | Enkle funksjoner for å visualisere valgdata fra stortingsvalg.
 
 <i class="fa fa-plug"></i> [**power.usage.analysis**](https://github.com/emmaSkarstein/power.usage.analysis) | Utforsk og analyser personlig strømforbruks-data fra Elhub.no.
 
