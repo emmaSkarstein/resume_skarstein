@@ -130,6 +130,7 @@ h1, h2{
 
 .main-block{
   margin-top: 0.1in;
+  break-inside: avoid;
 }
 
 #main h2{
@@ -185,6 +186,7 @@ h1, h2{
 .blocks{
   display: flex;
   flex-flow: row nowrap;
+  break-inside: avoid-column;
 }
 
 .blocks > div{

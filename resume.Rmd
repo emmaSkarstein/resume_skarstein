@@ -14,6 +14,11 @@ output:
 knit: pagedown::chrome_print
 ---
 
+```{r, echo = FALSE}
+options(pagedown.remote.maxattempts=40)
+options(pagedown.remote.sleeptime=2)
+```
+
 Aside
 ================================================================================
 
@@ -95,15 +100,6 @@ Thesis: *The EM algorithm and some applications in population genetics*
 
 Work Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
-### Teaching assistant
-
-<font size="1"> Norwegian University of Science and Technology </font> 
-
-Trondheim, Norway
-
-2019 fall
-
-Teaching assistant in the course ST1201 Statistical Methods. Full responsibility for exercise sessions and grading of mandatory exercises for 40 students.
 
 ### Accountant
 
@@ -122,9 +118,9 @@ Responsible for payroll of up to 7 employees, as well as all regular routines re
 
 Trondheim, Norway
 
-2018 fall
+2018 & 19 (fall)
 
-Teaching assistant in the course ST1201 Statistical Methods. Responsible for weekly exercise session.
+Teaching assistant in the course ST1201 Statistical Methods. Responsible for weekly exercise sessions and grading of exercises.
 
 
 ### Research assistant
@@ -138,20 +134,18 @@ Helsinki, Finland
 Helped develop an algorithm for automated brain stimulation. Acknowledged in [Tervo et al. (2020)](https://www.sciencedirect.com/science/article/pii/S1053811920305681).
 
 
-
 Selected Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
-### [A joint Bayesian framework for missing data and measurement error using integrated nested Laplace approximations](https://onlinelibrary.wiley.com/doi/full/10.1002/bimj.202300078)
+### [The Point Process Framework for Integrated Modelling of Biodiversity Data](https://arxiv.org/abs/2311.06755)
 
-Biometrical Journal
+Submitted to Environmetrics
 
 N/A
 
-2023
+2024
 
-Skarstein, E.S; Martino, S; Muff, S
-
+Adjei, K.P; Mostert, P; Sicacha-Parada, J; Skarstein, E.S; O'Hara, R.B
 
 
 ::: aside
@@ -172,6 +166,18 @@ Skarstein, E.S; Martino, S; Muff, S
 
 <br>
 
+<font size="4"> R PACKAGES </font> 
+
+<i class="fa fa-ruler"></i>
+[**inlami**](https://emmaskarstein.github.io/inlami/index.html) | Bayesian models for measurement error and missing data in INLA (integrated nested Laplace approximations).
+
+<i class="fa fa-bullhorn"></i>
+[**valgdata**](https://github.com/emmaSkarstein/valgdata) | Simple functions for visualizing Norwegian election results.
+
+<i class="fa fa-plug"></i> [**power.usage.analysis**](https://github.com/emmaSkarstein/power.usage.analysis) | Explore and analyze personal power consumption data from Elhub.no. 
+
+<br>
+
 <font size="4"> GRAPHICAL WORK </font> 
 
 <i class="fa fa-chart-bar"></i> [**TidyTuesday Contributions**](https://github.com/emmaSkarstein/tidytuesday) | 10+ visualizations of data from the TidyTuesday project.
@@ -180,21 +186,30 @@ Skarstein, E.S; Martino, S; Muff, S
 
 <i class="fa fa-chalkboard-teacher"></i> [**Missing data in INLA**](https://github.com/emmaSkarstein/ISBA2022-Poster) | Award winning conference poster, based on a poster for the movie Psycho (1960).
 
-<br>
-
-<font size="4"> R PACKAGES </font> 
-
-<i class="fa fa-ruler"></i>
-[**inlami**](https://emmaskarstein.github.io/inlami/index.html) | Bayesianske modeller for målefeil og manglende data i INLA (integrated nested Laplace approximations).
-
-<i class="fa fa-bullhorn"></i>
-[**valgdata**](https://github.com/emmaSkarstein/valgdata) | Enkle funksjoner for å visualisere valgdata fra stortingsvalg.
-
-<i class="fa fa-plug"></i> [**power.usage.analysis**](https://github.com/emmaSkarstein/power.usage.analysis) | Explore and analyze personal power consumption data from Elhub.no. 
 
 :::
 
 
+### [Recommendations for quantitative uncertainty consideration in ecology and evolution](https://www.sciencedirect.com/science/article/pii/S0169534723002793)
+
+Trends in Ecology & Evolution
+
+N/A
+
+2023
+
+Simmonds, E.G. et al.
+
+
+### [A joint Bayesian framework for missing data and measurement error using integrated nested Laplace approximations](https://onlinelibrary.wiley.com/doi/full/10.1002/bimj.202300078)
+
+Biometrical Journal
+
+N/A
+
+2023
+
+Skarstein, E.S; Martino, S; Muff, S
 
 
 ### [Insights into the quantification and reporting of model-related uncertainty across different disciplines](https://www.sciencedirect.com/science/article/pii/S2589004222017849?via%3Dihub)
@@ -257,13 +272,5 @@ N/A
 
 Held by Lars Christian Lassen, Mobilize Strategy Consulting. 2-day course targeted at PhD-candidates, designed develop an understanding of leadership in a research context.
 
-
-### LAOS teaching assistant course, NTNU
-
-N/A
-
-N/A
-
-2018
 
 
