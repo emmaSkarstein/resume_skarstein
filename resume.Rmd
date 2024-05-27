@@ -41,7 +41,7 @@ See my work {#skills}
 <i class="fa fa-github"></i> [**github/emmaSkarstein**](https://github.com/emmaskarstein) 
 <br> Code and projects, for example [my TidyTuesday contributions](https://github.com/emmaSkarstein/tidytuesday) and [various visualization projects](https://github.com/emmaSkarstein/visualization_projects).
 
-<i class="ai ai-orcid"></i> [**0000-0002-6347-855X**](https://orcid.org/0000-0002-6347-855X) 
+<i class="ai ai-google-scholar"></i> [**Google Scholar**](https://scholar.google.com/citations?user=Z80hBKsAAAAJ&hl=no) 
 <br> Published academic articles.
 
 Disclaimer {#disclaimer}
@@ -101,6 +101,17 @@ Thesis: *The EM algorithm and some applications in population genetics*
 Work Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
+### Teaching as a part of PhD position
+
+<font size="1"> Norwegian University of Science and Technology </font> 
+
+Trondheim, Norway
+
+2023 - 2023
+
+Responsible for projects and some teaching in the courses ST1201 Statistical methods (two semesters), TMA4268 Statistical learning (three semesters), TMA4265 Stochastic modelling and TMA4275 Survival analysis.
+
+
 ### Accountant
 
 Effektiv Altruisme Norge
@@ -152,7 +163,7 @@ Adjei, K.P; Mostert, P; Sicacha-Parada, J; Skarstein, E.S; O'Hara, R.B
 
 <font size="4"> SKILLS </font> 
 
-<i class="fa fa-code"></i> **PROGRAMMING** | R, Python, Matlab, C++, CSS (basic), GitHub
+<i class="fa fa-code"></i> **PROGRAMMING** | R, Python, Matlab, C++, GitHub
 
 <i class="fa fa-box-open"></i> **R-PACKAGES** | ggplot2, tidyverse
 
@@ -162,14 +173,14 @@ Adjei, K.P; Mostert, P; Sicacha-Parada, J; Skarstein, E.S; O'Hara, R.B
 
 <i class="fa fa-laptop"></i> **GOOGLE** | Drive, Docs, Sheets, Forms
 
-<i class="fa fa-globe"></i> **LANGUAGES** | English (native), Norwegian (native), French (B1), Chinese (A1)
+<i class="fa fa-globe"></i> **LANGUAGES** | English (native), Norwegian (native), French (B1)
 
 <br>
 
-<font size="4"> R PACKAGES </font> 
+<font size="4"> MY R PACKAGES </font> 
 
 <i class="fa fa-ruler"></i>
-[**inlami**](https://emmaskarstein.github.io/inlami/index.html) | Bayesian models for measurement error and missing data in INLA (integrated nested Laplace approximations).
+[**inlamemi**](https://emmaskarstein.github.io/inlamemi) | Bayesian models for measurement error and missing data in INLA (integrated nested Laplace approximations).
 
 <i class="fa fa-bullhorn"></i>
 [**valgdata**](https://github.com/emmaSkarstein/valgdata) | Simple functions for visualizing Norwegian election results.
@@ -189,16 +200,6 @@ Adjei, K.P; Mostert, P; Sicacha-Parada, J; Skarstein, E.S; O'Hara, R.B
 
 :::
 
-
-### [Recommendations for quantitative uncertainty consideration in ecology and evolution](https://www.sciencedirect.com/science/article/pii/S0169534723002793)
-
-Trends in Ecology & Evolution
-
-N/A
-
-2023
-
-Simmonds, E.G. et al.
 
 
 ### [A joint Bayesian framework for missing data and measurement error using integrated nested Laplace approximations](https://onlinelibrary.wiley.com/doi/full/10.1002/bimj.202300078)
@@ -226,13 +227,24 @@ Simmonds, E.G. et al.
 Volunteer experience {data-icon=handshake}
 --------------------------------------------------------------------------------
 
+### Organizer
+
+R Ladies Trondheim
+
+N/A
+
+2024
+
+Started the local group R Ladies Trondheim, which is a meeting place for women who use the programming language R, across many different disciplines.
+
+
 ### Representative for temporary employees, statistics group
 
 Department of Mathematical sciences, NTNU
 
 N/A 
 
-current - 2020
+2023 - 2020
 
 Represented temp. employees in administrative and organizational matters, organized social activities in the statistics group.
 

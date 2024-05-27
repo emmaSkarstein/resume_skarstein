@@ -95,15 +95,16 @@ Avhandling: *The EM algorithm and some applications in population genetics*
 
 Arbeidserfaring {data-icon=laptop}
 --------------------------------------------------------------------------------
-### Læringsassistent
+
+### Undervisning som en del av doktorgradsstilling
 
 <font size="1"> Norges teknisk-naturvitenskapelige universitet </font> 
 
 Trondheim, Norge
 
-2019 høst
+2023 - 2020
 
-Læringsassistent i emnet ST1201 Statistiske metoder. Fullt ansvar for øvingstimer og retting av obligatoriske øvinger for 40 studenter.
+Ansvar for øvingsopplegg og delvis undervising i emnene ST1201 Statistiske metoder (to semester), TMA4268 Statistisk læring (tre semester), TMA4265 Stokastisk modellering og TMA4275 Levetidsanalyse. 
 
 ### Regnskapsfører
 
@@ -115,16 +116,15 @@ Oslo, Norge (fjernarbeid)
 
 Andvarlig for lønnskjøring for opptil 7 ansatte, samt alle rutiner knyttet til regnskapsføring for en idéell organisasjon.
 
-
 ### Læringsassistent
 
 <font size="1"> Norges teknisk-naturvitenskapelige universitet </font> 
 
 Trondheim, Norge
 
-2018 høst
+2019 & 19 (høst)
 
-Læringsassistent i kurset ST1201 Statistiske metoder. Ansvarlig for ukentlige øvingstimer.
+Læringsassistent i emnet ST1201 Statistiske metoder. Ansvar for øvingstimer og retting av obligatoriske øvinger for 40 studenter.
 
 
 ### Forskningsassistent
@@ -141,16 +141,15 @@ Bidro til å utvikle en algoritme for automatisert hjerne-stimulering. Anerkjent
 
 Utvalgte publikasjoner {data-icon=file}
 --------------------------------------------------------------------------------
+### [The Point Process Framework for Integrated Modelling of Biodiversity Data](https://arxiv.org/abs/2311.06755)
 
-### [A joint Bayesian framework for missing data and measurement error using integrated nested Laplace approximations](https://onlinelibrary.wiley.com/doi/full/10.1002/bimj.202300078)
-
-Biometrical Journal
+Submitted to Environmetrics
 
 N/A
 
-2023
+2024
 
-Skarstein, E.S; Martino, S; Muff, S
+Adjei, K.P; Mostert, P; Sicacha-Parada, J; Skarstein, E.S; O'Hara, R.B
 
 
 
@@ -159,8 +158,6 @@ Skarstein, E.S; Martino, S; Muff, S
 <font size="4"> EVNER </font> 
 
 <i class="fa fa-code"></i> **PROGRAMMERING** | R, Python, Matlab, C++, GitHub
-
-<i class="fa fa-box-open"></i> **R-PAKKER** | ggplot2, tidyverse
 
 <i class="fa fa-book-open"></i> **LITTERAT KODING** | LaTeX, R markdown, Xaringan slides, Quarto
 
@@ -174,18 +171,18 @@ Skarstein, E.S; Martino, S; Muff, S
 
 <font size="4"> GRAFISK ARBEID </font> 
 
-<i class="fa fa-chart-bar"></i> [**TidyTuesday Contributions**](https://github.com/emmaSkarstein/tidytuesday) | 10+ visualiseringer av data fra TidyTuesday-prosjektet.
+<i class="fa fa-chart-bar"></i> [**TidyTuesday bidrag**](https://github.com/emmaSkarstein/tidytuesday) | 10+ visualiseringer av data fra TidyTuesday-prosjektet.
 
-<i class="fa fa-crown"></i> [**Britiske monarker**](https://github.com/emmaSkarstein/visualization_projects/tree/master/British_monarchs) | Levetidene til de siste monarkene i Storbrittania og England.
+<i class="fa fa-crown"></i> [**Britiske monarker**](https://github.com/emmaSkarstein/visualization_projects/tree/master/British_monarchs) | Levetidene til de siste monarkene i Storbritannia og England.
 
 <i class="fa fa-chalkboard-teacher"></i> [**Missing data in INLA**](https://github.com/emmaSkarstein/ISBA2022-Poster) | Prisvinnende konferanse-plakat, basert på en filmplakat til filmen Psycho (1960). 
 
 <br>
 
-<font size="4"> R PAKKER </font> 
+<font size="4"> MINE R PAKKER </font> 
 
 <i class="fa fa-ruler"></i>
-[**inlami**](https://emmaskarstein.github.io/inlami/index.html) | Bayesianske modeller for målefeil og manglende data i INLA (integrated nested Laplace approximations).
+[**inlamemi**](https://emmaskarstein.github.io/inlamemi) | Bayesianske modeller for målefeil og manglende data i INLA (integrated nested Laplace approximations).
 
 <i class="fa fa-bullhorn"></i>
 [**valgdata**](https://github.com/emmaSkarstein/valgdata) | Enkle funksjoner for å visualisere valgdata fra stortingsvalg.
@@ -193,6 +190,16 @@ Skarstein, E.S; Martino, S; Muff, S
 <i class="fa fa-plug"></i> [**power.usage.analysis**](https://github.com/emmaSkarstein/power.usage.analysis) | Utforsk og analyser personlig strømforbruks-data fra Elhub.no.
 
 :::
+
+### [A joint Bayesian framework for missing data and measurement error using integrated nested Laplace approximations](https://onlinelibrary.wiley.com/doi/full/10.1002/bimj.202300078)
+
+Biometrical Journal
+
+N/A
+
+2023
+
+Skarstein, E.S; Martino, S; Muff, S
 
 ### [Insights into the quantification and reporting of model-related uncertainty across different disciplines](https://www.sciencedirect.com/science/article/pii/S2589004222017849?via%3Dihub)
 
@@ -205,8 +212,18 @@ N/A
 Simmonds, E.G. et al.
 
 
-Verv {data-icon=handshake}
+Verv og frivillighet {data-icon=handshake}
 --------------------------------------------------------------------------------
+
+### Initiativtaker og organisator
+
+R Ladies Trondheim
+
+N/A
+
+2024
+
+Startet opp gruppa R Ladies Trondheim, som er en faglig møteplass for kvinner som bruker programmeringsspråket R på tvers av ulike fagfelt som matematikk, biologi, psykologi og statsvitenskap.
 
 ### Representant for midlertidig ansatte, statistikkgruppen
 
@@ -254,13 +271,5 @@ N/A
 
 Holdt av Lars Christian Lassen, Mobilize Strategy Consulting. 2-dagers kurs rettet mot stipendiater, med mål om å utvikle forståelse for lederskap i en forskningskontekst.
 
-
-### LAOS læringsassistent-kurs
-
-NTNU
-
-N/A
-
-2018
 
 
